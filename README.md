@@ -8,6 +8,6 @@
 * SVG files
 * Datasheet
 
-[Check the tutorial here] (https://www.dfrobot.com/wiki/index.php/Gravity:_Analog_Dissolved_Oxygen_Sensor_SKU:SEN0237)
+[Check the tutorial here](https://www.dfrobot.com/wiki/index.php/Gravity:_Analog_Dissolved_Oxygen_Sensor_SKU:SEN0237)
 
 # To Download, please click "Download ZIP"
